@@ -1,0 +1,124 @@
+	.nav-item{
+		
+		font-size:18px;
+		margin:15px;
+		padding-top:0px;
+		
+	}
+
+	.header2{
+		
+		margin-top:55px;
+		line-height:2;
+		
+	}
+
+	.p2{
+		
+		padding:10px;
+		padding-left:0px;
+		
+	}
+
+	.btn-primary{
+		
+		border-color:#40b6cf!important;
+		background-color:#40b6cf!important;
+		border-radius:50px;
+		
+	}
+
+	.card_with_icon1 .card-icon {
+		
+		width:80px;
+		height:80px;
+		background:#40b6cf;
+		font-size:30px;
+		left:20px;
+		top:50%; 
+		margin-top:-40px;
+		
+	}
+
+	.card_with_icon1{
+ 
+		padding-left:100px !important;
+		
+	}
+	
+	.card_with_icon1.right_icon .card-icon {
+		
+		left:unset;
+		right:20px;
+		
+	}
+
+	.card_with_icon1.right_icon {
+		
+		padding-right:100px!important;
+		padding-left:0!important;
+		
+	}
+	
+	.card_with_icon1.top_icon {
+		
+		padding-left:0!important;
+		
+	}
+
+	.card_with_icon1.top_icon .card-icon {
+		
+		left:unset;
+		
+	}
+	
+	.card_with_icon1:hover {
+		
+		background:#40b6cf;
+		color:#ffffff;
+		
+	}
+
+	.card_with_icon1:hover .card-icon {
+		
+		background:#ffffff;
+		color:#40b6cf!important;
+		
+	}
+
+
+	.card_with_icon2 {
+		
+		background:white;
+		
+	}
+
+	.card_with_icon2 .card-icon {
+		
+		width:80px;
+		height:80px;
+		background:#40b6cf;
+		font-size:30px;
+		
+	}
+	
+	.card_with_icon2:hover {
+		
+		background:#40b6cf;
+		color:#ffffff;
+		border-color:#40b6cf;
+		
+	}
+
+	.card_with_icon2:hover .card-icon {
+		
+		background:#fff;
+		color:#40b6cf!important;
+		
+	}
+
+	.section_3{
+			
+		background-color:#033e42!important;
+			
+	}
